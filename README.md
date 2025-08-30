@@ -41,7 +41,7 @@ maven {
     url "https://repo.hy-pe.ru/releases
 }
 
-implementation 'me.seetch:mlang:1.0.0'
+implementation 'me.seetch:schematiclib:1.0.0'
 ```
 
 ### Manual
