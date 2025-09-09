@@ -61,8 +61,8 @@
 
     <distributionManagement>
         <repository>
-            <id>daycube-releases</id>
-            <url>https://repo.hy-pe.ru/releases</url>
+            <id>endchest-releases</id>
+            <url>https://repo.endchest.ru/releases</url>
         </repository>
     </distributionManagement>
 </project>

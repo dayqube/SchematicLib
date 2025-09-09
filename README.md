@@ -21,9 +21,8 @@ A simple and lightweight library for pasting and undoing Minecraft schematics us
 
 ```xml
 <repository>
-    <id>daycube-releases</id>
-    <name>DAYCUBE</name>
-    <url>https://repo.hy-pe.ru/releases</url>
+    <id>endchest-releases</id>
+    <url>https://repo.endchest.ru/releases</url>
 </repository>
 
 <dependency>
@@ -37,8 +36,7 @@ A simple and lightweight library for pasting and undoing Minecraft schematics us
 
 ```xml
 maven {
-    name "daycubeReleases"
-    url "https://repo.hy-pe.ru/releases
+    url "https://repo.endchest.ru/releases
 }
 
 implementation 'me.seetch:mlang:1.0.0'
@@ -46,7 +44,7 @@ implementation 'me.seetch:mlang:1.0.0'
 
 ### Manual
 
-Download the JAR file from [Releases](https://github.com/dayqube/SchematicLib/releases) and add it to your project.
+Download the JAR file from [Releases](https://github.com/endchest/SchematicLib/releases) and add it to your project.
 
 ## 🛠 Usage
 
@@ -172,4 +170,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have questions or suggestions, create an [Issue](https://github.com/dayqube/SchematicLib/issues) on GitHub.
+If you have questions or suggestions, create an [Issue](https://github.com/endchest/SchematicLib/issues) on GitHub.
