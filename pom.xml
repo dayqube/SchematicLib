@@ -11,7 +11,7 @@
 
     <name>SchematicLib</name>
     <description>A simple library for pasting and undoing Minecraft schematics</description>
-    <url>https://github.com/dayqube/SchematicLib</url>
+    <url>https://github.com/endchest/SchematicLib</url>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
