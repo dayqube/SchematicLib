@@ -39,7 +39,7 @@ maven {
     url "https://repo.endchest.ru/releases
 }
 
-implementation 'me.seetch:mlang:1.0.0'
+implementation 'me.seetch:schematiclib:1.0.0'
 ```
 
 ### Manual
